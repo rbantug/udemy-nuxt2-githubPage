@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fudemy-nuxt2-githubPage\u002F_nuxt\u002Fstatic\u002F1652974194",layout:"admin",error:a,state:a,serverRendered:false,routePath:"\u002Fadmin\u002Fnew-post",config:{_app:{basePath:"\u002Fudemy-nuxt2-githubPage\u002F",assetsPath:"\u002Fudemy-nuxt2-githubPage\u002F_nuxt\u002F",cdnURL:a}}}}(null));

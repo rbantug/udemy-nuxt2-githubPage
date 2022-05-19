@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/posts/623dcf94052c463e4cbbdb51", {data:[{singlePost:{updatedDate:"2022-05-19T15:30:03.889Z",_id:"623dcf94052c463e4cbbdb51",id:1,title:"test",previewText:"another test",thumbnailLink:"http:\u002F\u002Fyesofcorsa.com\u002Fwp-content\u002Fuploads\u002F2016\u002F12\u002FTechnology-Wallpaper-Download.jpg",slug:"test-1",__v:0}}],fetch:{},mutations:[]});
